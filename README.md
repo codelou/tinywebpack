@@ -1,0 +1,2 @@
+# tinywebpack
+tinywebpack like webpack
